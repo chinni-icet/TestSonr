@@ -1,0 +1,6 @@
+organization=chinni-icet-github
+projectKey=com.chinni:TestSonar
+serverUrl=https://sonarqube.com
+dashboardUrl=https://sonarqube.com/dashboard/index/com.chinni:TestSonar
+ceTaskId=AVskoUxeGqR9xtJfHMTV
+ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVskoUxeGqR9xtJfHMTV

@@ -34,5 +34,7 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        App a = new App();
+        a.setX(3);
     }
 }
