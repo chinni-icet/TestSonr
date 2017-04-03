@@ -36,6 +36,7 @@ public class AppTest
         assertTrue( true );
         App a = new App();
         a.setX(3);
+        a.setY(3);
 	a.getX();
     }
 }
