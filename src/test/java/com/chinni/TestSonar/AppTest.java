@@ -38,5 +38,6 @@ public class AppTest
         a.setX(3);
         a.setY(3);
 	a.getX();
+	a.getY();
     }
 }
